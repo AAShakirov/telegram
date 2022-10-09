@@ -1,0 +1,3 @@
+API_link = 'https://api.telegram.org/bot5496446065:AAEdMCu6LEH6NjV1bL43zbYesYRrpQqW2EA'
+BOT_TOKEN = '5496446065:AAEdMCu6LEH6NjV1bL43zbYesYRrpQqW2EA'
+admin_id = 391421988
